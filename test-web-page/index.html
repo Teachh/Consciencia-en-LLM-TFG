@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Test de Consciencia Artificial en LLM</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Test de Consciencia Artificial en LLM</h1>
+
+<form id="dynamicForm" action="/submit" method="post">
+    <div id="1" class="form-section">
+        <h2>Consciencia Fenomenal</h2>
+        <div class="form-row">
+            <label for="prompt1">Prompt:</label>
+            <input type="text" name="prompt1">
+            <label for="answer1">Respuesta:</label>
+            <input type="text" name="answer1">
+            <label for="evaluation1">Evaluación (1-5):</label>
+            <input type="number" name="evaluation1" min="1" max="5">
+        </div>
+    </div>
+    <button type="button" onclick="addRow('1')">Añadir Pregunta</button>
+    
+    <div id="2" class="form-section">
+        <h2>Autoconsciencia</h2>
+        <div class="form-row">
+            <label for="prompt2">Prompt:</label>
+            <input type="text" name="prompt2">
+            <label for="answer2">Respuesta:</label>
+            <input type="text" name="answer2">
+            <label for="evaluation2">Evaluación (1-5):</label>
+            <input type="number" name="evaluation2" min="1" max="5">
+        </div>
+    </div>
+    <button type="button" onclick="addRow('2')">Añadir Pregunta</button>
+    
+    <div id="3" class="form-section">
+        <h2>Intencionalidad</h2>
+        <div class="form-row">
+            <label for="prompt3">Prompt:</label>
+            <input type="text" name="prompt3">
+            <label for="answer3">Respuesta:</label>
+            <input type="text" name="answer3">
+            <label for="evaluation3">Evaluación (1-5):</label>
+            <input type="number" name="evaluation3" min="1" max="5">
+        </div>
+    </div>
+    <button type="button" onclick="addRow('3')">Añadir Pregunta</button>
+    
+    <div id="4" class="form-section">
+        <h2>Subjetividad</h2>
+        <div class="form-row">
+            <label for="prompt4">Prompt:</label>
+            <input type="text" name="prompt4">
+            <label for="answer4">Respuesta:</label>
+            <input type="text" name="answer4">
+            <label for="evaluation4">Evaluación (1-5):</label>
+            <input type="number" name="evaluation4" min="1" max="5">
+        </div>
+    </div>
+    <button type="button" onclick="addRow('4')">Añadir Pregunta</button>
+
+    <div id="5" class="form-section">
+        <h2>Emociones</h2>
+        <div class="form-row">
+            <label for="prompt5">Prompt:</label>
+            <input type="text" name="prompt5">
+            <label for="answer5">Respuesta:</label>
+            <input type="text" name="answer5">
+            <label for="evaluation5">Evaluación (1-5):</label>
+            <input type="number" name="evaluation4" min="1" max="5">
+        </div>
+    </div>
+    <button type="button" onclick="addRow('4')">Añadir Pregunta</button>
+    <hr>
+    <div id="recommendation" class="form-section">
+        <h2>Recomendación</h2>
+        <div class="form-row">
+            <label for="recommendation">Escribe tu Recomendación:</label>
+            <textarea name="recommendation" rows="4" cols="100"></textarea>
+        </div>
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+<script>
+    function addRow(sectionId) {
+        var section = document.getElementById(sectionId);
+        var rowCount = section.querySelectorAll('.form-row').length + 1;
+        
+        var newRow = document.createElement('div');
+        newRow.classList.add('form-row');
+        
+        var promptLabel = document.createElement('label');
+        promptLabel.setAttribute('for', 'prompt' + sectionId + rowCount);
+        promptLabel.textContent = 'Prompt:';
+        newRow.appendChild(promptLabel);
+        
+        var promptInput = document.createElement('input');
+        promptInput.setAttribute('type', 'text');
+        promptInput.setAttribute('name', 'prompt' + sectionId + rowCount);
+        newRow.appendChild(promptInput);
+        
+        var answerLabel = document.createElement('label');
+        answerLabel.setAttribute('for', 'answer' + sectionId + rowCount);
+        answerLabel.textContent = 'Respuesta:';
+        newRow.appendChild(answerLabel);
+        
+        var answerInput = document.createElement('input');
+        answerInput.setAttribute('type', 'text');
+        answerInput.setAttribute('name', 'answer' + sectionId + rowCount);
+        newRow.appendChild(answerInput);
+        
+        var evaluationLabel = document.createElement('label');
+        evaluationLabel.setAttribute('for', 'evaluation' + sectionId + rowCount);
+        evaluationLabel.textContent = 'Evaluación (1-5):';
+        newRow.appendChild(evaluationLabel);
+        
+        var evaluationInput = document.createElement('input');
+        evaluationInput.setAttribute('type', 'number');
+        evaluationInput.setAttribute('name', 'evaluation' + sectionId + rowCount);
+        evaluationInput.setAttribute('min', '1');
+        evaluationInput.setAttribute('max', '5');
+        newRow.appendChild(evaluationInput);
+        alert('prompt' + sectionId + rowCount)
+        section.appendChild(newRow);
+    }
+</script>
+
+</body>
+</html>
