@@ -34,6 +34,8 @@ func main() {
 		}
 
 		var sections []Section
+		
+		model := r.FormValue("model")
 
 		for i := 1; ; i++ {
 			prefix := strconv.Itoa(i)
@@ -81,6 +83,7 @@ func main() {
 		recommendation := r.FormValue("recommendation")
 
 		data := map[string]interface{}{
+			"model":          model,
 			"sections":       sections,
 			"recommendation": recommendation,
 		}

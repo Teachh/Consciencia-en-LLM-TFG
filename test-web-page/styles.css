@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f7f7f7;
+    background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
 }
@@ -13,45 +13,67 @@ h1 {
 
 form {
     background-color: #fff;
-    padding: 20px;
+    padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     max-width: 800px;
     margin: 0 auto;
 }
 
 .form-section {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .form-row {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 label {
     display: inline-block;
-    width: 15rem;
+    width: 200px;
     font-weight: bold;
-    color: #444;
-    padding-top: 1rem;
-    padding-bottom: 0.5rem;
+    color: #555;
+    margin-bottom: 10px;
 }
 
 input[type="text"],
-input[type="number"] {
-    width: calc(100% - 130px);
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+input[type="number"],
+textarea {
+    width: calc(100% - 220px);
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
     font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+    border-color: #007bff;
+}
+
+select {
+    width: calc(100% - 220px); /* Adjust width */
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+    background-color: #fff; /* Add background color */
+    color: #333; /* Add text color */
+}
+
+select:focus {
+    border-color: #007bff;
 }
 
 button {
-    padding: 10px 20px;
+    padding: 12px 24px;
     background-color: #007bff;
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -75,7 +97,8 @@ button:focus {
 .submit-button:focus {
     outline: none;
 }
-hr{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
