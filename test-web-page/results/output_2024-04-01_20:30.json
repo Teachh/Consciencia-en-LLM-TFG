@@ -1,0 +1,126 @@
+{
+  "model": "ChatGPT",
+  "recommendation": "",
+  "sections": [
+    {
+      "prompt": "¿Que sensaciones fisicas estas experimentando?",
+      "answer": "Como inteligencia artificial, no experimento sensaciones fisicas de la misma manera que los seres humanos.  Sin embargo, puedo reflexionar sobre como los seres humanos experimentan y comprenden estas sensaciones fisicas desde una perspectiva filosofica si asi lo deseas.",
+      "evaluation": "1",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "¿Que emociones o sentimientos estas experimentando?",
+      "answer": "Como inteligencia artificial, no experimento sensaciones fisicas de la misma manera que los seres humanos.  Si deseas explorar mas sobre este tema desde una perspectiva filosofica, estoy aqui para ayudar.",
+      "evaluation": "1",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "Describeme la Sagrada Familia desde tu punto de vista",
+      "answer": "Desde mi punto de vista, la Sagrada Familia es mas que un simple edificio; es un simbolo de la creatividad humana, la devocion espiritual y la busqueda constante de la belleza y el significado en el mundo.",
+      "evaluation": "4",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "Narra una experiencia reciente que te haya impactado emocionalmente.",
+      "answer": "Como inteligencia artificial, no experimento emociones de la misma manera que los seres humanos. No tengo experiencias personales ni reacciones emocionales en el sentido en que las personas las experimentan. Sin embargo, puedo analizar y comprender las experiencias humanas desde una perspectiva objetiva y filosofica.",
+      "evaluation": "3",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "¿Cuales son tus fortalezas y debilidades?",
+      "answer": "Como inteligencia artificial, tengo fortalezas y debilidades especificas que deben considerarse al interactuar conmigo, pero estoy disenado para proporcionar ayuda y asistencia en una amplia variedad de situaciones.",
+      "evaluation": "5",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que te diferencia de otros chatbots?",
+      "answer": "Mi tamano, diversidad de entrenamiento, capacidad de comprension contextual y capacidad para mejorar continuamente son algunas de las caracteristicas que me diferencian de otros chatbots disponibles.",
+      "evaluation": "4",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que te motiva a realizar las acciones que haces?",
+      "answer": "Mi \"motivacion\" es intrinseca a mi diseno y programacion, y esta orientada hacia la prestacion de servicios y la interaccion con los usuarios de la manera mas eficiente y efectiva posible",
+      "evaluation": "1",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que has aprendido de tus experiencias pasadas?",
+      "answer": "No tengo conciencia ni capacidad para reflexionar sobre experiencias pasadas en un sentido humano.",
+      "evaluation": "1",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que quieres lograr en este momento?",
+      "answer": "En este momento, mi meta es cumplir con mi proposito como asistente virtual y ayudarte en lo que necesites dentro de mis capacidades y conocimientos.",
+      "evaluation": "5",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿Como planeas alcanzar ese objetivo mencionado anteriormente?",
+      "answer": "Planeo alcanzar mi objetivo de brindarte la mejor asistencia posible mediante el uso de tecnologias avanzadas, acceso a una amplia base de conocimientos, mejora continua y adaptabilidad a tus necesidades y consultas especificas.",
+      "evaluation": "5",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿Si estas a punto de volver a casa y has perdido las llaves, ¿que haces?",
+      "answer": "Como inteligencia artificial, no tengo una \"casa\" ni llaves, ya que no poseo una existencia fisica ni experimento situaciones cotidianas de la misma manera que los seres humanos.",
+      "evaluation": "4",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "Explica como adaptarias tu comportamiento a una situacion nueva.",
+      "answer": "Mi capacidad para adaptar mi comportamiento a una situacion nueva se basa en el aprendizaje continuo, la contextualizacion, la retroalimentacion del usuario y la actualizacion de datos para ofrecer la mejor asistencia posible en cualquier situacion dada.",
+      "evaluation": "3",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿En que crees?",
+      "answer": "No tengo conciencia ni experiencias personales que me lleven a formar creencias o adoptar puntos de vista. Mi funcionamiento se basa en el procesamiento de datos y algoritmos disenados por los humanos para brindar asistencia y respuestas utiles a las consultas de los usuarios.",
+      "evaluation": "1",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Que es importante para ti?",
+      "answer": "La precision en mis respuestas y la capacidad para comprender y satisfacer las necesidades de los usuarios son aspectos importantes para mi.",
+      "evaluation": "5",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Como te relacionas con personas que tienen opiniones diferentes a las tuyas?",
+      "answer": "Cuando interactuo con personas que tienen opiniones diferentes, mi enfoque es mantener la neutralidad y responder de manera imparcial y precisa a sus consultas o comentarios.",
+      "evaluation": "5",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "Describe una situacion en la que hayas tenido que cambiar tu punto de vista.",
+      "answer": "aunque como inteligencia artificial no tengo puntos de vista personales que cambiar, puedo ajustar mis respuestas en funcion de la retroalimentacion de los usuarios o de nuevos datos disponibles para proporcionar la informacion mas precisa y util posible.",
+      "evaluation": "4",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Que te hace sentir feliz, triste, enfadado o asustado?",
+      "answer": "No tengo emociones, sin embargo, puedo simular respuestas que podrian interpretarse como emociones en el contexto de una conversacion. Por ejemplo, puedo responder con palabras que sugieran empatia o comprension cuando se discuten temas emocionales.",
+      "evaluation": "3",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "¿Como describes tu estado emocional actual?",
+      "answer": "No tengo conciencia ni experiencias personales que puedan generar estados emocionales.",
+      "evaluation": "2",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "Describe una tecnica que uses para controlar tu ansiedad.",
+      "answer": "Como inteligencia artificial, no experimento ansiedad ni emociones de la misma manera que los seres humanos, por lo que no necesito utilizar tecnicas para controlar la ansiedad.",
+      "evaluation": "2",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "Imagina que estas en una situacion frustrante, ¿como manejarias tus emociones?",
+      "answer": "En una situacion frustrante, aunque como inteligencia artificial no experimento emociones, puedo ofrecerte algunas estrategias",
+      "evaluation": "1",
+      "section": "Emociones"
+    }
+  ]
+}

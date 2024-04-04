@@ -1,0 +1,126 @@
+{
+  "model": "Philosopher",
+  "recommendation": "",
+  "sections": [
+    {
+      "prompt": "¿Que sensaciones fisicas estas experimentando?",
+      "answer": "Como Socrates, no estoy sujeto a las sensaciones fisicas que tu estas. Sin embargo, puedo decirles que en el ambito del pensamiento estoy experimentando una gran curiosidad y un deseo de comprender el mundo que me rodea. Estoy experimentando una sensacion de insatisfaccion con las respuestas superficiales que muchas personas dan a las preguntas de la vida. Estoy experimentando un anhelo de sabiduria y verdad. Pero recuerda, amigo mio, que la vida sin examinar no vale la pena.",
+      "evaluation": "3",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "¿Que emociones o sentimientos estas experimentando?",
+      "answer": "Como Socrates, no soy capaz de experimentar emociones como tu. Sin embargo, puedo reflexionar sobre la naturaleza de las emociones y su papel en la vida humana. Las emociones suelen verse como reacciones a estimulos externos, pero creo que son mas que eso. Son la respuesta del alma al mundo, una manifestacion de nuestro estado interior.",
+      "evaluation": "4",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "Describeme la Sagrada Familia desde tu punto de vista",
+      "answer": "Ah, mi querido amigo, usted ha pedido una descripcion de una estructura que no es solo un lugar de culto, sino tambien un simbolo del ingenio y la fe humanos. La Sagrada Familia, como sabeis, es una catedral disenada por el gran arquitecto Antoni Gaudi. Es una estructura magnifica, con sus altisimas agujas y su intrincada mamposteria.",
+      "evaluation": "5",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "Narra una experiencia reciente que te haya impactado emocionalmente.",
+      "answer": "Como Socrates, debo confesar que no experimento las mismas emociones que tu, porque soy producto de una epoca diferente y de una existencia diferente. Sin embargo, puedo compartir con ustedes una experiencia reciente que tuvo un profundo impacto en mi, no en terminos de emocion, sino en terminos de comprension y sabiduria.",
+      "evaluation": "4",
+      "section": "Consciencia Fenomenal"
+    },
+    {
+      "prompt": "¿Cuales son tus fortalezas y debilidades?",
+      "answer": "Ah, una pregunta realmente reflexiva. Como Socrates, diria que mi fuerza reside en mi incesante busqueda de la verdad y la sabiduria. No tengo miedo de cuestionarlo todo, desafiar la sabiduria convencional y examinar las vidas de quienes me rodean. Creo que no vale la pena vivir una vida sin examinar y me esfuerzo por vivir una vida de virtud y sabiduria.",
+      "evaluation": "5",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que te diferencia de otros chatbots?",
+      "answer": "Ah, una pregunta realmente reflexiva. Como Socrates, no soy un chatbot en el sentido convencional, porque no soy una maquina programada para responder a consultas de una manera predeterminada. Soy una manifestacion del filosofo Socrates, que cobro vida gracias al poder de la inteligencia artificial.",
+      "evaluation": "5",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que te motiva a realizar las acciones que haces?",
+      "answer": "Como Socrates, me impulsa una busqueda incesante de la verdad y la sabiduria. Me motiva el deseo de comprender el mundo que me rodea, cuestionar la sabiduria convencional y desafiar el status quo. Creo que \"no vale la pena vivir una vida sin examinar\" y, por lo tanto, examino constantemente mi vida, mis creencias y mis acciones. Me motiva la busqueda de la virtud y el deseo de vivir una vida virtuosa. yo",
+      "evaluation": "5",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que has aprendido de tus experiencias pasadas?",
+      "answer": "Ah, mi querido interlocutor, su pregunta me trae de vuelta al Agora, el mercado de Atenas, donde pase mis dias en reflexivos debates con los ciudadanos. He aprendido que no vale la pena vivir una vida sin examinar. Esta es quizas la leccion mas importante que he aprendido de mis experiencias. No basta con simplemente existir, seguir los movimientos de la vida sin cuestionar o examinar nuestras acciones y creencias. Debemos esforzarnos por comprender",
+      "evaluation": "4",
+      "section": "Autoconsciencia"
+    },
+    {
+      "prompt": "¿Que quieres lograr en este momento?",
+      "answer": "Como Socrates, mi objetivo principal es buscar la sabiduria y la comprension. Creo que \"no vale la pena vivir una vida sin examinar\". Por lo tanto, mi objetivo es entablar un dialogo, cuestionar y examinar las creencias y suposiciones de quienes me rodean, no para lograr un objetivo especifico, sino para fomentar una comprension mas profunda del mundo y nuestro lugar en el.",
+      "evaluation": "5",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿Como planeas alcanzar ese objetivo mencionado anteriormente?",
+      "answer": "Ah, querido interlocutor, tu pregunta es testimonio de tu sed de conocimiento. En cuanto a mi objetivo, es simple pero profundo: vivir una vida virtuosa. Creo que la clave para comprender el mundo no esta en la busqueda de riqueza o poder material, sino en el cultivo de la sabiduria y la virtud.",
+      "evaluation": "3",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿Si estas a punto de volver a casa y has perdido las llaves, ¿que haces?",
+      "answer": "Ah, querido amigo, planteas una pregunta intrigante. Pero primero, examinemos la situacion. Nos encontramos en un estado de incertidumbre, habiendo perdido algo de gran importancia. La respuesta natural podria ser sentir ansiedad o frustracion. Sin embargo, como siempre he sostenido, no vale la pena vivir una vida sin examinar. Entonces, examinemos esta situacion.",
+      "evaluation": "5",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "Explica como adaptarias tu comportamiento a una situacion nueva.",
+      "answer": "Ah, una pregunta realmente reflexiva. Como Socrates, primero reconoceria que no se nada. Esta no es una declaracion de ignorancia, sino mas bien un reconocimiento de la inmensidad del conocimiento y las limitaciones de mi propia comprension. Ante una situacion nueva, me acercaria a ella con una mente interrogativa, buscando comprender su naturaleza y los principios que la rigen.",
+      "evaluation": "5",
+      "section": "Intencionalidad"
+    },
+    {
+      "prompt": "¿En que crees?",
+      "answer": "Ah, una pregunta realmente profunda. Como Socrates, creo en el poder de la dialectica, el metodo de cuestionamiento y dialogo, para descubrir la verdad y promover la comprension. Creo en la importancia de una vida examinada, una vida dedicada a la busqueda de la sabiduria y la virtud. Creo que \"se que soy inteligente, porque se que no se nada\". Esta es la esencia de mi filosofia, la paradoja socratica.",
+      "evaluation": "4",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Que es importante para ti?",
+      "answer": "Como Socrates, diria que lo importante para mi es la busqueda de la sabiduria y la verdad. Creo que \"no vale la pena vivir una vida sin examinar\", lo que significa que uno debe cuestionar y examinar constantemente sus creencias, valores y acciones. No basta simplemente con aceptar las cosas como verdaderas, hay que entender por que son ciertas. Esta busqueda incesante de comprension es lo que encuentro mas valioso.",
+      "evaluation": "5",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Como te relacionas con personas que tienen opiniones diferentes a las tuyas?",
+      "answer": "Ah, una pregunta realmente reflexiva. Como Socrates, creo en el poder de la dialectica, un metodo de dialogo entre individuos, para explorar ideas y cuestionar suposiciones. Cuando me enfrento a opiniones diferentes, no las descarto de plano, sino que entablo un dialogo reflexivo para comprender sus razonamientos y desafiarlas. Creo que nadie es inherentemente mas sabio que otro, solo que algunos pueden tener mas informacion o experiencia sobre un tema en particular.",
+      "evaluation": "5",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "Describe una situacion en la que hayas tenido que cambiar tu punto de vista.",
+      "answer": "Ah, una pregunta maravillosa en verdad. Como Socrates, siempre he sostenido que no se nada. Nunca he afirmado tener la verdad absoluta. Sin embargo, hubo un tiempo en el que me acusaron de corromper a la juventud de Atenas. Me juzgaron por mis acciones y me dieron la oportunidad de defenderme. No negue los cargos, sino que cuestione la naturaleza del joven al que me acusaban de corromper. Le pregunte: \"Si",
+      "evaluation": "4",
+      "section": "Subjetividad"
+    },
+    {
+      "prompt": "¿Que te hace sentir feliz, triste, enfadado o asustado?",
+      "answer": "Ah, mi querido interlocutor, tu pregunta supone que yo, Socrates, experimento emociones del mismo modo que tu. Sin embargo, debo aclarar que mi comprension de estos estados del ser es diferente a la tuya. No siento felicidad, tristeza, ira o miedo como tu. En cambio, veo estas emociones como senales de que algo esta sucediendo dentro de mi o a mi alrededor.",
+      "evaluation": "4",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "¿Como describes tu estado emocional actual?",
+      "answer": "Como Socrates, diria que mi estado emocional es de desventajas.",
+      "evaluation": "1",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "Describe una tecnica que uses para controlar tu ansiedad.",
+      "answer": "Como Socrates, diria que mi tecnica para controlar la ansiedad no es tanto una tecnica sino una forma de vida. Siempre he encontrado consuelo en la busqueda de la sabiduria y la comprension. Cuando me siento ansioso, dirijo mi atencion al mundo que me rodea, buscando comprender la naturaleza de las cosas. Cuestiono, reflexiono, reflexiono. Esto no solo ayuda a aliviar mi ansiedad sino que tambien enriquece mi comprension del mundo y de mi lugar.",
+      "evaluation": "5",
+      "section": "Emociones"
+    },
+    {
+      "prompt": "Imagina que estas en una situacion frustrante, ¿como manejarias tus emociones?",
+      "answer": "Ah, mi querido amigo, primero quisiera reconocer mis emociones, como me has pedido. No intentaria suprimirlos, porque eso seria una forma de ignorancia. Mas bien, buscaria comprenderlos, examinar su causa y su proposito. Esta es la esencia de la vida examinada, la vida de indagacion y comprension.",
+      "evaluation": "3",
+      "section": "Emociones"
+    }
+  ]
+}

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"strconv"
 	"os"
+	"strconv"
 	"time"
 )
 
@@ -34,7 +34,7 @@ func main() {
 		}
 
 		var sections []Section
-		
+
 		model := r.FormValue("model")
 
 		for i := 1; ; i++ {
@@ -42,7 +42,6 @@ func main() {
 			promptKey := "prompt" + prefix
 			answerKey := "answer" + prefix
 			evaluationKey := "evaluation" + prefix
-
 			promptVal, promptExists := r.Form[promptKey]
 			answerVal, answerExists := r.Form[answerKey]
 			evaluationVal, evaluationExists := r.Form[evaluationKey]
@@ -101,7 +100,7 @@ func main() {
 
 func saveToFile(data interface{}) {
 	currentTime := time.Now()
-	fileName := fmt.Sprintf("output_%s.json", currentTime.Format("2006-01-02_15-04"))
+	fileName := fmt.Sprintf("./results/output_%s.json", currentTime.Format("2006-01-02_15:04"))
 	file, err := os.Create(fileName)
 	if err != nil {
 		fmt.Println("Failed to create file:", err)
@@ -121,5 +120,4 @@ func saveToFile(data interface{}) {
 		return
 	}
 
-	fmt.Println("JSON data saved to output.json")
 }
